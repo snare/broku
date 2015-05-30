@@ -1,0 +1,22 @@
+# Key names can be the constant names used by blessed
+KEY_LEFT:       left
+KEY_RIGHT:      right
+KEY_UP:         up
+KEY_DOWN:       down
+KEY_BACKSPACE:  backspace
+KEY_ENTER:      select
+KEY_ESCAPE:     back
+KEY_HOME:       home
+
+# Or letters
+h:              home
+i:              info
+s:              search
+r:              reverse
+f:              forward
+r:              reverse
+
+# Or keycodes
+# [ + ]
+91:             reverse
+93:             forward
